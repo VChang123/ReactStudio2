@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactStudio2/static/css/main.ff2f6b92.css",
+    "main.js": "/ReactStudio2/static/js/main.17dfb664.js",
+    "index.html": "/ReactStudio2/index.html",
+    "main.ff2f6b92.css.map": "/ReactStudio2/static/css/main.ff2f6b92.css.map",
+    "main.17dfb664.js.map": "/ReactStudio2/static/js/main.17dfb664.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff2f6b92.css",
+    "static/js/main.17dfb664.js"
+  ]
+}
