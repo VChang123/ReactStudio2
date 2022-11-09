@@ -1,0 +1,39 @@
+/* Add styling for your page here */
+
+.App {
+    background-color: azure;
+
+}
+
+.BakeryItems {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+ 
+}
+.BakeryItem {
+    flex: 50%;
+}
+.header {
+    font-size: 50px;
+    text-align: center;
+}
+
+.parent {
+    display: flex;
+    flex-wrap: wrap;
+}
+.child {
+    flex: 1;
+}
+.right-section {
+    text-align: center;
+    flex:0.3;
+    background-color: whitesmoke;
+    border:solid 2px gray;
+    height: 80vh;
+    margin-right: 4%;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 15%;
+}
